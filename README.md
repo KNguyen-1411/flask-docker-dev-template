@@ -38,7 +38,7 @@ The Flask application will be accessible at `http://localhost:5000`.
 
 ## Built With
 
-- [Python 3.11](https://www.python.org/)
+- [Python](https://www.python.org/)
 - [Flask](https://flask.palletsprojects.com/)
 - [Docker](https://www.docker.com/)
 
