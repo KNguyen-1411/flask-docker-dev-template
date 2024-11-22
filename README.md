@@ -49,7 +49,7 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 ## Author
 
 - **Khánh Nguyên**
-  _30-11-2024_
+  _30-10-2024_
 
 ---
 
